@@ -3,6 +3,7 @@ import Image from "next/image";
 import  "./globals.css"
 import { useState, useEffect } from "react";
 
+//nao tive conhecimento para finalizar//
 export default function Home() {
 
   const [data, setData] = useState({
