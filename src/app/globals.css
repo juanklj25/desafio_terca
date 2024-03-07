@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.senha{
+  background-color:gray;
+}
+.botao{
+  color:white;
+  background-color: green;
+  margin: 50px;
+  height: 35px;
+  border-radius: 10px;
+  width: 80px;
+}
+.email{
+  color: white;
+  align-self: center;
+  background-color:gray;
+}
+body{
+  display: flex;
+  justify-content: center;
+  background-color: black;  
+}
+img{
+  height: 150px;
+}
+label{
+  color: white;
+}
